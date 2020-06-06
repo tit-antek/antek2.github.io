@@ -25,7 +25,7 @@
                <article>
                     <h2>Wakacje</h2>
 					<figure>
-							<center><img src=zadCSS-2.jpg /></center>
+							<center><img src=2.jpg /></center>
 					</figrue>
 					<div class="text">
 					<p>
