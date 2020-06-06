@@ -51,6 +51,6 @@
                Wszystkie prawa zastrzeżone ©
           </footer>
 			</div>
-	     <a href="https://tit-antek2.github.io/index.html"><img src="1.png" alt="zadCSS"></a>
+	     <a href="https://github.com/tit-antek/antek2.github.io/blob/master/README.md"><img src="1.png" alt="zadCSS"></a>
      </body>
 </html>
