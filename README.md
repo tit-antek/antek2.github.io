@@ -3,7 +3,7 @@
      <head>
           <meta charset="UTF-8" />
 		  <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&family=Roboto+Condensed:ital@1&display=swap" rel="stylesheet">
-		  <link rel="stylesheet" href="https://tit-antek2.github.io/CSS">
+		  <link rel="stylesheet" href="https://github.com/tit-antek/antek2.github.io/blob/master/CSS">
           <title>Autor Antek Szefler</title>
 		  
 	 </head>
