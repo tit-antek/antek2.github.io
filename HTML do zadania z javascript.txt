@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+	<head>
+			<meta charset="UTF-8" />
+			<title>Marki samochodowe i ich topowe modele</title>
+			<script src="java.js"></script>
+			<link rel="stylesheet" href="css.js">
+	</head>
+<body>
+	<header>
+		<h1 style="text-align: center">Java Script</h1>
+	</header>
+		<section>
+			
+			<p style="text-align: center">
+			
+			<img id="1"
+			src="1.jpg"   
+			onmouseover="zmien1()"  
+			onmouseout="zmien2()"/>		
+			
+			<img id="2"   
+			src="3.jpg"   
+			onmouseover="zmien3()"  
+			onmouseout="zmien4()"/>
+			
+			<img id="3"   
+			src="5.jpg"  
+			onmouseover="zmien5()"  
+			onmouseout="zmien6()"/>
+			
+			</p>
+			
+			<p style="text-align: center">
+			
+			<img id="4"  
+			src="7.jpg"     
+			onmouseover="zmien7()"  
+			onmouseout="zmien8()"/>
+			
+			<img id="5"  
+			src="9.jpg" 
+			onmouseover="zmien9()"  
+			onmouseout="zmien10()"/>
+			
+			<img id="6"  
+			src="11.jpg" 
+			onmouseover="zmien11()" 
+			onmouseout="zmien12()"/>
+			
+			</p>
+			
+			<p style="text-align: center">
+			
+			<img id="7"  
+			src="13.jpg"     
+			onmouseover="zmien13()" 
+			onmouseout="zmien14()"/>
+			
+			<img id="8"  
+			src="15.jpg"   
+			onmouseover="zmien15()" 
+			onmouseout="zmien16()"/>
+			
+			<img id="9"  
+			src="17.jpg" 
+			onmouseover="zmien17()" 
+			onmouseout="zmien18()"/>
+			
+			</p>
+			
+		</section>
+		 <a href="https://github.com/tit-antek/antek2.github.io/blob/master/README.md"><img src="powrót.png" alt="powrót"></a>
+	</body>
+</html>

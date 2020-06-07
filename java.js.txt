@@ -1,0 +1,72 @@
+function zmien1()
+{
+	document.getElementById('1').src="logo1.jpg";
+}
+function zmien2()
+{
+	document.getElementById('1').src="auto1.jpg";
+}
+function zmien3()
+{
+	document.getElementById('2').src="logo2.jpg";
+}
+function zmien4()
+{
+	document.getElementById('2').src="auto2.jpg";
+}
+function zmien5()
+{
+	document.getElementById('3').src="logo3.jpg";
+}
+function zmien6()
+{
+	document.getElementById('3').src="auto3.jpg";
+}
+function zmien7()
+{
+	document.getElementById('4').src="logo4.jpg";
+}
+function zmien8()
+{
+	document.getElementById('4').src="auto4.jpg";
+}
+function zmien9()
+{
+	document.getElementById('5').src="logo5.jpg";
+}
+function zmien10()
+{
+	document.getElementById('5').src="auto5.jpg";
+}
+function zmien11()
+{
+	document.getElementById('6').src="logo6.jpg";
+}
+function zmien12()
+{
+	document.getElementById('6').src="auto6.jpg";
+}
+function zmien13()
+{
+	document.getElementById('7').src="logo7.jpg";
+}
+function zmien14()
+{
+	document.getElementById('7').src="auto7.jpg";
+}
+function zmien15()
+{
+	document.getElementById('8').src="logo8.jpg";
+}
+function zmien16()
+{
+	document.getElementById('8').src="auto8.jpg";
+}
+function zmien17()
+{
+	document.getElementById('9').src="logo9.jpg";
+}
+function zmien18()
+{
+	document.getElementById('9').src="auto9.jpg";
+}
